@@ -1,11 +1,5 @@
-### Hi there, I'm <a href="">Surya</a> <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="30px" width="35px">
+### <h1>Hi there, I'm <a href="">Surya</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-
-
-
-
-<h1 align="center">Hi there , I'm </h1>
-<h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
 
