@@ -4,11 +4,11 @@
 
 ### Who Am I?
 
-- I'm **Surya** an **20 Years** Young Programmer
+- I'm **Surya** an **22 Years** Young Programmer
 
-- **Javascript Lover**, **Cyber Security Enthusiast**
+- **Website Designer**, **Cyber Security Enthusiast**
 
-- I’m currently working on **Website Development**
+- I’m currently working as a **Freelancer**
 
 - I’m currently learning **React JS**
 
@@ -49,14 +49,12 @@
 [<img align="left" alt="0x-surya.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="0xsurya | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="0x-surya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="0x-surya | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
 [<img align="left" alt="0x-surya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://0x-surya.github.io/
-[youtube]: https://www.youtube.com/channel/UCVy4BdB2wii0-lE1arqgKUA
-[instagram]: https://www.instagram.com/surya_official_17/
-[linkedin]: https://www.linkedin.com/in/0x-surya-53577a202
-[telegram]: https://t.me/Wh1t3d3v1l_19
+[youtube]: https://youtube.com/@Cyterix?si=4rPZcESUEGnZepaM
+[instagram]: https://www.instagram.com/0.xsurya/
+[linkedin]: https://in.linkedin.com/in/0xsurya
 
 
 
