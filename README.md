@@ -4,13 +4,17 @@
 
 ### Who Am I?
 
-- I'm **Surya** an **23 Years** Young Programmer
+### Software Trainer @ Apollo | Technical Trainer | Freelancer | Web Designer & Developer
 
-- **Website Designer**, **Cyber Security Enthusiast**
+I'm a passionate Front-End Developer, Web Designer, and Technical Trainer with 2+ years of experience in web development, training, and project delivery.
 
-- I’m currently working as a **Freelancer**
+I specialize in building responsive websites, training students in modern web technologies, and developing real-world projects for businesses, startups, educational institutions, and digital brands.
 
-- I’m currently learning **React JS**
+- 💼 Software Trainer at Apollo Computer Education Ltd
+- 🎓 Conducted technical training sessions across 15+ colleges
+- 🌐 Developed 20+ live websites across multiple industries
+- 🚀 Currently learning Java & Spring Boot
+- 🤝 Open to freelance projects, collaborations, and remote opportunities
 
 
 <br />
